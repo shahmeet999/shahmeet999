@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmeet999&layout=compact" alt="shahmeet999" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahmeet999&show_icons=true" alt="shahmeet999" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahmeet999&label=Profile%20views&color=0e75b6&style=flat" alt="zeel91297" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahmeet999" alt="zeel91297" /></a> </p>
